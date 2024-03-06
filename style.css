@@ -1,0 +1,9 @@
+
+
+body{
+    background-image: url('bg.jpg');
+}
+
+h1,label {
+    color : white;
+}
